@@ -33,10 +33,12 @@
 
 ### Brigham Young University 
 *B.S. in Computer Science (In Progress)*
+
 Current GPA: 3.95 / 4.00
 
 ### Everett Community College
 *Associates of Arts and Sciences, 2022*
+
 GPA: 3.99 / 4.00
 
 ### Monroe High School
